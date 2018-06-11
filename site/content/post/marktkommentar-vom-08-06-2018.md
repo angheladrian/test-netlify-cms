@@ -7,6 +7,7 @@ description: >-
   Vorwoche, aber immer noch über 3 Millionen Franken. Die Anzahl Abschlüsse ging
   ebenfalls etwas zurück.
 image: /img/backetball.jpeg
+archive: true
 ---
 ## Erneut gute Woche - Volumenstarker Mai
 
