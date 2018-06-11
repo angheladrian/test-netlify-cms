@@ -1,4 +1,7 @@
-node_modules/
-dist/
-/npm-debug.log
-yarn-error.log
+/target/
+/coverage/
+/node_modules/
+/.idea/
+/dist/
+/.project
+/.sonar
