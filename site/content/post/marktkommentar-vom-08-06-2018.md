@@ -79,6 +79,11 @@ In der kommenden Handelswoche stehen wieder viele Generalversammlungen bevor: un
 Die vergangene Woche im Überblick:
 
 
+| a | b | c |
+|---|---|---|
+| 1 | 2 | 3 |
+| 1 | 2 | 3 |
+
 
   Stand 	Verändrung 
 
